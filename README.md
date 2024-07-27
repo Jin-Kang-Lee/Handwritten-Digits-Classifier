@@ -1,4 +1,4 @@
-# Handwritten_Digits_Classifier
+# Handwritten Digits Classifier
 Classify handwritten digits with deep learning and neural network.
 Building a neural network with hidden layers using TensorFlow to help with the classificaiton
 
