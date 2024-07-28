@@ -14,3 +14,4 @@ NOTE:
 USEFUL DOCUMENTATION LINKS:
   - https://www.tensorflow.org/api_docs/python/tf/keras/Sequential
   - https://www.tensorflow.org/api_docs/python/tf/keras/losses/sparse_categorical_crossentropy
+  - https://keras.io/api/layers/core_layers/dense/
