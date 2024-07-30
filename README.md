@@ -14,4 +14,5 @@ NOTE:
 USEFUL DOCUMENTATION LINKS:
   - https://www.tensorflow.org/api_docs/python/tf/keras/Sequential
   - https://keras.io/api/losses/probabilistic_losses/#sparse_categorical_crossentropy-function
-  - https://keras.io/api/layers/core_layers/dense/
+  - https://keras.io/api/layers/core_layers/dense
+  - https://seaborn.pydata.org/generated/seaborn.heatmap.html
