@@ -4,6 +4,7 @@ Building a neural network with hidden layers using TensorFlow to help with the c
 
 
 DATASET: https://www.tensorflow.org/api_docs/python/tf/keras/datasets/mnist/load_data
+https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html
 
 NOTE:
   - Each image in the dataset is 28 by 28 pixel
